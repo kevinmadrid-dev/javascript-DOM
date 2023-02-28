@@ -1,6 +1,6 @@
 # Javascript - DOM
 
-![image](https://cdn.jsdelivr.net/gh/K3yJey/Encriptador-de-Texto@main/img/homePage_Encriptador.png)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-DOM@main/assets/homePage_TodoApp.png)
 
 ## Sobre el repositorio
 Carpeta contenedora del curso "Javascript en la Web: Manipulación del DOM con Javascript", se realizó una app estilo agenda en la cual podemos registrar nuestras tareas, marcarlas como completadas y removerlas de la lista.
@@ -16,7 +16,7 @@ Carpeta contenedora del curso "Javascript en la Web: Manipulación del DOM con J
 * Curso culminado.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Todo App](https://k3yjey.github.io/Encriptador-de-Texto/)
+* Github Pages => [Todo App](https://k3yjey.github.io/javascript-DOM/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
