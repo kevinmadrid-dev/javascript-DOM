@@ -4,8 +4,8 @@
 
 }) ();
 */
-import iconDelete from "./components/iconDelete.js";
 import iconComplete from "./components/iconComplete.js";
+import iconDelete from "./components/iconDelete.js";
 
 const btn = document.querySelector(".btnCreate");
 
@@ -31,7 +31,6 @@ const createTask = (evento) => {
 
     taskContent.appendChild(taskTitle);
 
-    // task.innerHTML = value_span;
     task.appendChild(taskContent);
     task.appendChild(iconDelete());
     list.appendChild(task);

@@ -1,13 +1,13 @@
 const iconDelete = () => {
-    const i =document.createElement("i");
+    const i = document.createElement("i");
     i.classList.add("fas", "fa-trash-alt", "trashIcon", "icon");
 
-    i.addEventListener("click", taskDelte);
+    i.addEventListener("click", taskDelete);
 
     return i;
 }
 
-const taskDelte = (event) => {
+const taskDelete = (event) => {
     const parent = event.target.parentElement;
     parent.remove();
 }

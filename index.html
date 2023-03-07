@@ -8,7 +8,6 @@
     <title>TODO App</title>
 
     <link rel="stylesheet" href="./assets/rocket.svg">
-    <!--<link rel="stylesheet" href="https://fonts.gstatic.com">-->
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&family=Parisienne&display=swap"
         rel="stylesheet">
@@ -24,7 +23,7 @@
 
             <div>
                 <form action="">
-                    <input class="inputForm" type="text" name="task" placeholder="Nombre de la tarea" autocomplete="off"/>
+                    <input class="inputForm" type="text" name="task" placeholder="Nombre de la tarea" autofocus/>
                     <button class="btnCreate" type="submit" data-form-btn>
                         Agregar <i class="fas fa-plus-circle"></i>
                     </button>
@@ -32,6 +31,13 @@
             </div>
 
             <ul class="cardsList">
+                <li class="card">
+                    <div>
+                        <span class="task">
+                            <i class="far fa-check-square icon">Tarea 01</i>
+                        </span>
+                    </div>
+                </li>
             </ul>
         </div>
     </main>
