@@ -13,7 +13,7 @@ Cuarto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. "Javascrip
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📌 Comentarios adicionales 
-* Curso culminado.
+Curso culminado.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
 * Github Pages => [Todo App](https://k3yjey.github.io/javascript-DOM/)
