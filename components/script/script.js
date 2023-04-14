@@ -4,8 +4,8 @@
 
 }) ();
 */
-import iconComplete from "./components/iconComplete.js";
-import iconDelete from "./components/iconDelete.js";
+import iconComplete from "./iconComplete.js";
+import iconDelete from "./iconDelete.js";
 
 const btn = document.querySelector(".btnCreate");
 
