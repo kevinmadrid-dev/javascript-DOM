@@ -1,6 +1,6 @@
 # Javascript - DOM
 
-![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-DOM@main/assets/homePage_TodoApp.png)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/javascript-DOM@main/assets/img/homePage_TodoApp.png)
 
 ## 📦 Sobre el repositorio
 Cuarto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. "Javascript en la Web: Manipulación del DOM con Javascript", se realizó una app estilo agenda en la cual podemos registrar nuestras tareas, marcarlas como completadas y removerlas de la lista.
