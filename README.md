@@ -15,8 +15,5 @@ Cuarto proyecto del Desarrollo FrontEnd para el programa ONE + Alura. "Javascrip
 ## 📌 Comentarios adicionales 
 Curso culminado.
 
-## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Todo App](https://k3yjey.github.io/javascript-DOM/)
-
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
