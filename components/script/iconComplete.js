@@ -1,18 +1,17 @@
 const iconComplete = () => {
-    const i = document.createElement("i");
-    i.classList.add("far", "fa-check-square", "icon");
-    
-    i.addEventListener("click", taskComplete);
+  const i = document.createElement("i");
+  i.classList.add("far", "fa-check-square", "icon");
+  i.addEventListener("click", taskComplete);
 
-    return i;
-}
+  return i;
+};
 
 const taskComplete = (event) => {
-    const element = event.target;
+  const element = event.target;
 
-    element.classList.toggle("fas");
-    element.classList.toggle("completeIcon");
-    element.classList.toggle("far");
-}
+  element.classList.toggle("fas");
+  element.classList.toggle("completeIcon");
+  element.classList.toggle("far");
+};
 
 export default iconComplete;

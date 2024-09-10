@@ -1,47 +1,55 @@
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TODO App</title>
 
-    <link rel="stylesheet" href="/assets/img/rocket.svg">
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&family=Parisienne&display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/img/rocket.svg" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&family=Parisienne&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
 
-</head>
-
-<body>
+  <body>
     <main>
-        <div class="mainCard">
-            <div class="title"><img src="/assets/img/rocket.svg" /></div>
+      <div class="mainCard">
+        <div class="title"><img src="/assets/img/rocket.svg" /></div>
 
-            <div>
-                <form action="">
-                    <input class="inputForm" type="text" name="task" placeholder="Nombre de la tarea" autofocus />
-                    <button class="btnCreate" type="submit" data-form-btn>
-                        Agregar <i class="fas fa-plus-circle"></i>
-                    </button>
-                </form>
-            </div>
-
-            <ul class="cardsList">
-                <li class="card">
-                    <div>
-                        <i class="far fa-check-square icon"></i>
-                        <span class="task">Tarea 01</span>
-                    </div>
-                    <i class="fas fa-trash-alt trashIcon icon"></i>
-                </li>
-            </ul>
+        <div>
+          <form action="">
+            <input
+              class="inputForm"
+              type="text"
+              name="task"
+              placeholder="Nombre de la tarea"
+              autofocus
+            />
+            <button class="btnCreate" type="submit" data-form-btn>
+              Agregar <i class="fas fa-plus-circle"></i>
+            </button>
+          </form>
         </div>
+
+        <ul class="cardsList">
+          <li class="card">
+            <div>
+              <i class="far fa-check-square icon"></i>
+              <span class="task">Tarea 01</span>
+            </div>
+            <i class="fas fa-trash-alt trashIcon icon"></i>
+          </li>
+        </ul>
+      </div>
     </main>
 
     <script type="module" src="../script/script.js"></script>
-</body>
-
+  </body>
 </html>
